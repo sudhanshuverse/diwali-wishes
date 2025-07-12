@@ -23,7 +23,7 @@ A vibrant, customizable Diwali greeting webpage built with **HTML**, **CSS**, an
 ## 🖼️ Screenshots
 
 ### 💻 Desktop View
-![Desktop Screenshot](./screenshots/desktop-view.png)
+![Desktop Screenshot](./desktop-view.png)
 
 ### 📱 Mobile View
 ![Mobile Screenshot](./screenshots/mobile-view.png)
