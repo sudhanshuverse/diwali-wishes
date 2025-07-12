@@ -25,10 +25,10 @@ A vibrant, customizable Diwali greeting webpage built with **HTML**, **CSS**, an
 ### 💻 Desktop View
 ![Desktop Screenshot](./desktop-view.png)
 
-### 📱 Mobile View
-![Mobile Screenshot](./mobile-view.png)
+<h3>📱 Mobile View</h3>
+<img src="./mobile-view.png" alt="Mobile Screenshot" width="250" height="auto">
 
-> Place your actual screenshots inside the `screenshots/` folder and rename them accordingly.
+
 
 ---
 
@@ -37,8 +37,7 @@ A vibrant, customizable Diwali greeting webpage built with **HTML**, **CSS**, an
 ### 📥 Clone the Repo
 
 ```bash
-git clone https://github.com/your-username/diwali-wishes-page.git
-cd diwali-wishes-page
+git clone https://github.com/sudhanshuverse.github.io/diwali-wishes/
 ```
 
 
@@ -49,19 +48,18 @@ diwali-wishes-page/
 ├── assets/         # Diwali images (Deepak, Lakshmi, Ganesh, etc.)
 ├── icons/          # Music control icons
 ├── music/          # Background audio
-├── screenshots/    # Images for README.md
+├── desktop-view.png  # Images for desktop
+├── mobile-view.png  # Image for mobile
 ├── index.html      # Main HTML file
 ├── style.css       # All styles
-├── script.js       # JavaScript logic (if separated)
 ├── favicon.ico     # Tab icon
 └── README.md       # You're here!
 ```
 
-
 ## 👨‍💻 Author
 
-Sudhanshu Kumar
-
+**Sudhanshu Kumar**  
 Made with 💙 for Diwali
 
-📧 Email | GitHub
+📧 Email: [sudhanshu950841@gmail.com](mailto:sudhanshu950841@gmail.com)  
+💻 GitHub: [github.com/sudhanshuverse](https://github.com/sudhanshuverse)
