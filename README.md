@@ -26,7 +26,7 @@ A vibrant, customizable Diwali greeting webpage built with **HTML**, **CSS**, an
 ![Desktop Screenshot](./desktop-view.png)
 
 ### 📱 Mobile View
-![Mobile Screenshot](./screenshots/mobile-view.png)
+![Mobile Screenshot](./mobile-view.png)
 
 > Place your actual screenshots inside the `screenshots/` folder and rename them accordingly.
 
