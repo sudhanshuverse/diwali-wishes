@@ -16,7 +16,7 @@ A vibrant, customizable Diwali greeting webpage built with **HTML**, **CSS**, an
 
 ## 📸 Demo
 
-👉 **[Live Demo](https://sudhanshuverse.github.io/diwali-wishes/)**  
+Live Demo 👉 **[https://sudhanshuverse.github.io/diwali-wishes/](https://sudhanshuverse.github.io/diwali-wishes/)**  
 
 ---
 
