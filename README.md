@@ -16,12 +16,7 @@ A vibrant, customizable Diwali greeting webpage built with **HTML**, **CSS**, an
 
 ## 📸 Demo
 
-👉 **[Live Demo](https://your-site.com/?to=Riya&from=Sudhanshu)**  
-<!-- Replace # with your hosted site URL -->
-
-Try it with names:  
-
-
+👉 **[Live Demo](https://sudhanshuverse.github.io/diwali-wishes/)**  
 
 ---
 
